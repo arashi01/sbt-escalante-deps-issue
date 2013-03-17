@@ -10,5 +10,5 @@ object Plugins extends Build {
     // https://github.com/sbt/sbt/issues/647.  Using git dependency instead.
   ).dependsOn(sbtEscalante)
   
-  lazy val sbtEscalante = uri("git://github.com/escalante/sbt-escalante.git#0.1.1")
+  lazy val sbtEscalante = uri("git://github.com/arashi01/sbt-escalante.git#deps-issue-12")
 }
