@@ -1,0 +1,6 @@
+.idea/*
+!.idea/copyright/*
+.idea_modules/
+target/
+/*.iml
+
